@@ -36,6 +36,8 @@ In Runner Game, where the player aims to survive as long as possible. The immers
 ### Screenshot
 ![Runner Game](images/ss.png)
 
+![Runner Game1](images/ss2.png)
+
 ## Floating Balloon
 Floating Balloon is a game where players control a balloon that rises slightly each time the space bar is pressed. The game features a side-view camera angle, and the objective is to navigate through money and bomb objects.
 
